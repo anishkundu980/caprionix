@@ -1,0 +1,1 @@
+{"name":"caprionix","private":true,"scripts":{"install:all":"npm i && npm i --prefix client && npm i --prefix server","dev":"concurrently \"npm run dev --prefix server\" \"npm run dev --prefix client\""},"devDependencies":{"concurrently":"^8.2.2"}}

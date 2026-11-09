@@ -1,0 +1,6 @@
+[
+{"id":"lavender","category":"moisturiser","name":"Glycerin Hydra-Body Moisturiser","scent":"Lavender","size":"65 mL","price":449,"image":"/images/lavender-jar.jpg","accent":"#9680AE","soft":"#EFEBF4","blurb":"A calming lavender scent over 90% water and glycerin. Nothing unnecessary."},
+{"id":"coffee","category":"moisturiser","name":"Glycerin Hydra-Body Moisturiser","scent":"Coffee","size":"65 mL","price":449,"image":"/images/coffee-jar.jpg","accent":"#8A3B12","soft":"#F6E9DF","blurb":"A warm, refreshing coffee scent with long-lasting hydration."},
+{"id":"strawberry","category":"moisturiser","name":"Glycerin Hydra-Body Moisturiser","scent":"Strawberry","size":"65 mL","price":449,"image":"/images/strawberry-jar.jpg","accent":"#E8656A","soft":"#FBE9E9","blurb":"A light strawberry scent for soft, smooth, hydrated skin."},
+{"id":"serum","category":"hair","name":"Hair Serum","scent":"Coffee","size":"100 mL","price":null,"image":"/images/serum.jpg","accent":"#8A3B12","soft":"#F3ECE4","blurb":"Panthenol, Polyquaternium-10 and hydrolysed keratin protein for smoother, shinier hair."}
+]
